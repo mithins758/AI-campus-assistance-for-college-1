@@ -1,0 +1,13 @@
+{
+  "name": "campus-management",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Campus Management System — Express+PostgreSQL backend merged with the Aegis Campus AI frontend",
+  "scripts": {
+    "install:all": "npm --prefix backend install && npm --prefix \"aegis-campus-ai-•-glassmorphic-campus-assistant\" install",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix \"aegis-campus-ai-•-glassmorphic-campus-assistant\" run dev",
+    "build:frontend": "npm --prefix \"aegis-campus-ai-•-glassmorphic-campus-assistant\" run build",
+    "lint:frontend": "npm --prefix \"aegis-campus-ai-•-glassmorphic-campus-assistant\" run lint"
+  }
+}

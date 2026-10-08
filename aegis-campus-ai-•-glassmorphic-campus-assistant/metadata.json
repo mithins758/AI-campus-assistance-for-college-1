@@ -1,0 +1,7 @@
+{
+  "name": "Aegis Campus AI • Glassmorphic Campus Assistant",
+  "description": "Futuristic glassmorphism AI campus companion for college students and faculty featuring interactive classroom navigation, live timetable, faculty locator, and intelligent campus assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
